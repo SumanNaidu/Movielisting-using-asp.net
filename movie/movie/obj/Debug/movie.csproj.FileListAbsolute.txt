@@ -1,0 +1,4 @@
+C:\Users\Mithun M\Documents\Visual Studio 2010\Projects\movie\movie\bin\movie.dll
+C:\Users\Mithun M\Documents\Visual Studio 2010\Projects\movie\movie\bin\movie.pdb
+C:\Users\Mithun M\Documents\Visual Studio 2010\Projects\movie\movie\obj\Debug\movie.dll
+C:\Users\Mithun M\Documents\Visual Studio 2010\Projects\movie\movie\obj\Debug\movie.pdb
